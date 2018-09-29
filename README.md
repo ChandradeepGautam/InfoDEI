@@ -41,4 +41,3 @@ E.g.:AIzaSyBdv1-cTICSwascjascajdcjanjdsncxbvvfTYS0
 ## Final App
 
 <video src="output.mp4"></video>
-<iframe width="854" height="480" src="output.mp4" frameborder="0" allowfullscreen></iframe>
