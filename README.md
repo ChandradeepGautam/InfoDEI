@@ -30,10 +30,8 @@ Detailed guides to getting an API key:
 
 4. On the credentials page, get an API key
 5. From the dialog displaying the API key, select restrict key to set an Android restriction on the API key
-
-6.     In the restriction section, select android apps, then enter your app SHA1 fingerprint and package name. For e.g.:BB:OD:AC:74:D3:21:E1:43:67:71:9B:62:91:AF:A1:66:6E:44:5D:75
-7.      Click Save 
-
+6. In the restriction section, select android apps, then enter your app SHA1 fingerprint and package name. For e.g.:BB:OD:AC:74:D3:21:E1:43:67:71:9B:62:91:AF:A1:66:6E:44:5D:75
+7. click save
 An API key is a string of characters.
 
 E.g.:AIzaSyBdv1-cTICSwascjascajdcjanjdsncxbvvfTYS0
@@ -42,4 +40,4 @@ E.g.:AIzaSyBdv1-cTICSwascjascajdcjanjdsncxbvvfTYS0
 
 ## Final App
 
-<video src="/Users/chandradeepgautam/Desktop/InfoDEI/output.mp4"></video>
+<video src="output.mp4"></video>
